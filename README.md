@@ -4,7 +4,7 @@
 
 ## Veri Seti Detayı
 
-Kullandığım veri seti göz hastalıkları ile ilgili fotoğraflar içermektedir, 4217 adet resim bulunmaktadır. Cataract, diabetic retinopahty, glaucoma, normal olarak 4 adet sınıftan oluşmaktadır. Modelin doğruluk oranı %81'dir
+Kullandığım veri seti göz hastalıkları ile ilgili fotoğraflar içermektedir, 4217 adet resim bulunmaktadır. Veri setindeki toplam 4 adet sınıf bulunmakta, sınıflar ise Cataract, diabetic retinopahty, glaucoma, normal ' dir . Modelin doğruluk oranı %81'dir
 
 
 ## Model Sonucu İle İlgili Grafikler
